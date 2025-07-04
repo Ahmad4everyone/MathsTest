@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function(){
         event.preventDefault();
 
         correctAnswers = {
-            q1: "b",
+            q1: "c",
             q2: "b",
             q3: "c",
             q4: "b",
